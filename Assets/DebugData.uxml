@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/DebugData.uss?fileID=7433441132597879392&amp;guid=49980331939339ebfb800699ba5f93e0&amp;type=3#DebugData" />
+    <ui:VisualElement>
+        <ui:Label text="Label" display-tooltip-when-elided="true" style="-unity-text-align: upper-center; min-width: 0; min-height: 60px; background-color: rgba(255, 255, 255, 255);" />
+    </ui:VisualElement>
+</ui:UXML>
